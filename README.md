@@ -1,1 +1,1 @@
-# crud-todolist-springboot
+# Базовый функционал простого списка задач с использованием Spring Boot
